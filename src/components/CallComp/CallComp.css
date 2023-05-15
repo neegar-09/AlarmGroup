@@ -1,0 +1,19 @@
+.call-section {
+    background-color: var(--color-secondary);
+    padding: 60px 0px 55px 0px;
+    color: white;
+}
+
+.call-box {
+    width: 70%;
+}
+
+.call-icon {
+    font-size: 60px;
+    margin-right: 25px;
+}
+
+.call-text {
+    font-size: 21px;
+    font-weight: 500;
+}

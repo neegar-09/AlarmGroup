@@ -1,0 +1,22 @@
+.about-section {
+    padding-top: 120px;
+}
+
+.about-body {
+    padding-right: 80px;
+}
+
+.about-list-item {
+    padding-bottom: 10px;
+}
+
+.about-list-text {
+    font-size: 17px;
+    color: #6A6A6A;
+}
+
+.about-list-items i {
+    color: var(--color-main);
+    font-size: 13px;
+    margin-right: 5px;
+}
